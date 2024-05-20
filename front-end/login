@@ -1,0 +1,14 @@
+
+
+rentNepal@admin.com
+admin12345
+
+giriaakriti11@gmail.com
+aakriti1221
+
+pritam@gmail.com
+pritam12345
+
+kill process on port ****:
+netstat -ano | findstr :<port>
+taskkill /PID <PID> /F
